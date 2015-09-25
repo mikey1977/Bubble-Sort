@@ -1,0 +1,19 @@
+{
+  "name": "bubble-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bubble_sort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikey1977/Bubble-Sort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikey1977/Bubble-Sort/issues"
+  },
+  "homepage": "https://github.com/mikey1977/Bubble-Sort#readme"
+}
